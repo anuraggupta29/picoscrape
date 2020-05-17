@@ -4,7 +4,7 @@
 
 <ul>
 <li>Name : picoscrape</li>
-<li>Version : 0.1</li>
+<li>Version : 1.0</li>
 <li>License : MIT License</li>
 <li>Author : Anurag Gupta</li>
 <li>Author Email : anuraggupta29@outlook.com</li>
