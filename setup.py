@@ -9,7 +9,7 @@ setup(
   author = 'Anurag Gupta',
   author_email = 'anuraggupta29@outlook.com',
   url = 'https://github.com/anuraggupta29/picoscrape',
-  download_url = 'https://github.com/anuraggupta29/picoscrape/archive/0.1.tar.gz',
+  download_url = 'https://github.com/anuraggupta29/picoscrape/archive/1.0.tar.gz',
   keywords = ['scrape', 'image scraper', 'unsplash scraper', 'image dataset', 'unsplash'],
   install_requires=['selenium'],
   classifiers=[
