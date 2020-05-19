@@ -2,6 +2,9 @@
 <h4>A python package to scrape images from various websites.</h4>
 <h4><i>Install via cmd : pip install picoscrape</i></h4>
 
+[How to upload python package to PyPI?](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
+
+<h4>Details</h4>
 <ul>
 <li>Name : picoscrape</li>
 <li>Version : 1.0</li>
