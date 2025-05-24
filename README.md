@@ -1,5 +1,5 @@
 <h1>PicoScrape</h1>
-<h4>A python package to scrape images from various websites.</h4>
+<h4>A python package to scrape images from UnSplash.</h4>
 <h4><i>Install via cmd : pip install picoscrape</i></h4>
 
 [How to upload python package to PyPI?](https://medium.com/@joel.barmettler/how-to-upload-your-python-package-to-pypi-65edc5fe9c56)
@@ -25,4 +25,3 @@ This is a python package with functions to easily scrape images from various web
 <h5>Do make a pull request to contribute to this project</h5>
 
 <i>Currently, this package only supports image downloads from Unsplash.<br>
-Support for other websites and new functions to be added soon.</i>
